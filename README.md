@@ -11,6 +11,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Here's how to reach me:  
+
+[<img align="left" alt="ritik-san.githu.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt=" | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://ritik-san.github.io
+[email]: mailto:
+[twitter]: https://twitter.com/
+[linkedin]: https://www.linkedin.com/in/
 -->
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://ritik-san.io)
@@ -33,22 +45,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me ****
 
 - ⚡ Fun fact **I think I am Funny**
-  
-Here's how to reach me:  
 
-[<img align="left" alt="shubhlohiya.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="shubhlohiya@gatech.edu | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
-[<img align="left" alt="shubhlohiya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lohiya-shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[website]: https://ritik-san.github.io
-[email]: mailto:
-[twitter]: https://twitter.com/
-[linkedin]: https://www.linkedin.com/in/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hrithik-hassani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrithik-hassani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hassani-hritik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hrithik-hassani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
