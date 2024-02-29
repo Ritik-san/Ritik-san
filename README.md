@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, nextjs**
 
-- 📫 How to reach me **hrithikhassani.77**
+- 📫 How to reach me **hrithikhassani.77@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
