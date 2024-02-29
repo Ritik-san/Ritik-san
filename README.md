@@ -1,3 +1,18 @@
+<!--
+**Ritik-san/Ritik-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://ritik-san.io)
 
 
@@ -15,9 +30,21 @@
 
 - 💬 Ask me about **react, nextjs**
 
-- 📫 How to reach me **hrithikhassani.77@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I think I am Funny**
+  
+Here's how to reach me:  
+
+[<img align="left" alt="shubhlohiya.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="shubhlohiya@gatech.edu | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
+[<img align="left" alt="shubhlohiya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="lohiya-shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[website]: https://ritik-san.github.io
+[email]: mailto:
+[twitter]: https://twitter.com/
+[linkedin]: https://www.linkedin.com/in/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
