@@ -32,7 +32,7 @@ Here's how to reach me:
 <h1 align="center">Hi 👋, I'm Hritik Hassani</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif ">
+<img align="right" alt="Coding" width="400" src=" https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik-san&label=Profile%20views&color=0e75b6&style=flat" alt="ritik-san" /> </p>
 
